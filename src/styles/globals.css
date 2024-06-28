@@ -105,3 +105,20 @@ a {
     color-scheme: dark;
   }
 }
+
+/* Navbar Start */
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 1.5rem;
+  background: #615efc;
+}
+
+.logo {
+  font-size: large;
+  font-weight: bold;
+}
+
+/* Navbar End */
